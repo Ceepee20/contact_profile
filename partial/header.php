@@ -20,12 +20,17 @@
 								<span>
 										<i class="fa fa-envelope" aria-hidden="true"></i>
 										davisasini01@gmail.com
-									    <img src="image/github.png" style="width:2rem;height:2rem; "/>
+									    <img src="image/whatsapp01.png" style="width:2rem;height:2rem; "/>
+										<a class="navbar-brand" href="https://api.whatsapp.com/send?phone=2349017867963">whatsapp</a>
+										<img src="image/github.png" style="width:2rem;height:2rem; "/>
 										<a class="navbar-brand" href="https://github.com/Ceepee20/ecommerce_project.git">Projects</a>
 										  <i class="fa fa-user" aria-hidden="true"></i>
 										  <a class="navbar-brand" href="resume.php">Resume</a>
 										  <i class="fa fa-home" aria-hidden="true"></i>
 										  <a class="navbar-brand" href="index.php" >Home</a>
+										 
+                                    
+                                
                                     </span>
 									
 						    </div>

@@ -6,7 +6,7 @@
                          <hr>
                          <h6>Social Media Handle</h6>
                          <ul class="nav justify-content-center">
-                                 
+                         
                                  <li class="nav-item">
                                      <a class="nav-link" href="https://www.instagram.com/jiriso_techsolution/">Instgram</a>
                                  </li>
